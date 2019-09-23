@@ -10,7 +10,7 @@
 
 ### 最新
 
-* [世界，你好！](http://www.raocloud.cn/hello-solo)
+* [Redis持久化机制浅谈](http://www.raocloud.cn/articles/2019/09/23/1569228419349.html)
 
 
 
