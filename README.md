@@ -12,7 +12,7 @@
 
 * [MyBatis源码分析-XMl映射文件解析](http://www.raocloud.cn/articles/2019/09/27/1569594596256.html)
 * [设计模式-装饰器模式](http://www.raocloud.cn/articles/2019/09/27/1569567958843.html)
-* [MyBatis源码分析-缓存模块](http://www.raocloud.cn/articles/2019/09/27/1569567839562.html)
+* [MyBatis源码分析-缓存机制](http://www.raocloud.cn/articles/2019/09/27/1569567839562.html)
 * [JWT理论](http://www.raocloud.cn/articles/2019/09/24/1569319539938.html)
 * [HashMap常量思考](http://www.raocloud.cn/articles/2019/09/24/1569305879380.html)
 * [MyBatis源码分析-bind模块](http://www.raocloud.cn/articles/2019/09/24/1569305504546.html)
